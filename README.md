@@ -1,1 +1,1 @@
-![Code Quality Score](https://www.code-inspector.com/project/18130/score/svg) ![Code Grade](https://www.code-inspector.com/project/18130/status/svg)
+![Code Quality Score](https://www.code-inspector.com/project/18130/score/svg) ![Code Grade](https://www.code-inspector.com/project/18130/status/svg) ![](https://img.shields.io/github/stars/freecsgodownloadnovirus/freecsgodownloadnovirus.github.io)
